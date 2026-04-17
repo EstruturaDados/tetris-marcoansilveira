@@ -199,7 +199,7 @@ void exibirMenu() {
 // ----------------------------------------------------
 // MAIN
 // ----------------------------------------------------
-// 🔄 Nível Mestre: Integração Estratégica entre Fila e Pilha
+// 🔄  Nível Mestre: Integração Estratégica entre Fila e Pilha
 //
 // - Implemente interações avançadas entre as estruturas:
 //      4 - Trocar a peça da frente da fila com o topo da pilha
